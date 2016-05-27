@@ -1,27 +1,37 @@
-.column {
+body {
+  font-family: sans-serif;
+}
 
+img {
+  width: 200px;
+  height: auto;
+}
+
+.column {
+  text-align: center;
 }
 
 .col1 {
-
+  float: left;
 }
 
 .col2 {
-
+    float: left;
 }
 
 .col3 {
+    float: left;
 
 }
 
 .col4 {
-
+    float: left;
 }
 
 .col5 {
-
+    float: left;
 }
 
 .col6 {
-
+    float: left;
 }
